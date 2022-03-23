@@ -5,7 +5,7 @@
 --!>
 <br/>
 
-So let me introduce myself,
+So let me introduce myself, 👨‍💻
 <br/>
 <br/>
 I'm Remil a enthusiast about computer science and most particulary about cyber-security (Reverse Engineering etc.). I'm actually a student at ESIEA a computer engineering school (first year for me).
