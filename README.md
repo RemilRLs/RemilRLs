@@ -8,9 +8,14 @@
 So let me introduce myself, 👨‍💻
 <br/>
 <br/>
-I'm Remil a enthusiast about computer science and most particulary about cyber-security (Reverse Engineering etc.). I'm actually a student at ESIEA a computer engineering school (first year for me).
+I'm **Remil** a **enthusiast about computer science** and most particulary about **cyber-security** (Reverse Engineering etc.). I'm actually a student at **ESIEA** a computer engineering school (first year for me).
 <br/>
 <br/>
 So what do I do now ?
 <br/><br/>
-For now i'm focus to learn Java and ReactJS to create my website that will be about me.
+For now i'm currently learning **C, C++** at my school and **PHP, JavaScript** (To make a portfolio website).
+
+<br/>  
+
+
+## My Skill Set  
