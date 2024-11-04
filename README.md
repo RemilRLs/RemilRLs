@@ -1,20 +1,8 @@
-# Hi ! I'm Remil ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Hi! I'm Remil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### <div align="center">Harder, Better, Faster, Stronger ⚡</div>  
-<br/>
+Driven by Cyber Defense & Forensics 🛡️🔍
 
-So let me introduce myself, 👨‍💻
-<br/>
-<br/>
-I'm **Remil** a **enthusiast about computer science** and most particulary about **cyber-security** (Reverse Engineering etc.). I'm actually a student at **ESIEA** a computer engineering school (first year for me).
-<br/>
-<br/>
-So what do I do now ?
-<br/><br/>
-For now i'm currently learning **C, C++** at my school and **PHP, JavaScript** (To make a portfolio website).
-
-<br/>  
-
+<br/>I'm Remil, a cybersecurity enthusiast currently in my final year at ESIEA, pursuing a dual-degree in cybersecurity (MS-SIS). My primary interests lie in cyber defense and digital forensics, where I focus on protecting systems from threats and conducting in-depth investigations to uncover digital evidence.
 
 ## My Skill Set  
 
